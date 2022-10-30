@@ -2,6 +2,8 @@
 
 Projeto desenvolvido em REACT para estudos, site 100% responsivo!
 
+Com animação de typing no banner inicial.
+
 ### Instalação:
 - `npm install`
 
